@@ -1,0 +1,11 @@
+{
+  "name": "volleyball-pwa-tools",
+  "version": "1.0.0",
+  "description": "Small helper scripts for optimizing icons in the volleyball PWA",
+  "scripts": {
+    "optimize-icons": "node tools/optimize-icons.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.0"
+  }
+}
